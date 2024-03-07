@@ -5,7 +5,6 @@ Created on Thu Feb  8 15:29:09 2024
 
 @author: finlay sime
 
-s2212677
 
 """
 
